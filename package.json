@@ -1,0 +1,23 @@
+{
+  "name": "semester-project-2-ole_m",
+  "version": "1.0.0",
+  "description": "semester project at noroff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olemart1n/semester-project-2-ole_m.git"
+  },
+  "keywords": [
+    "auction",
+    "website"
+  ],
+  "author": "Ole Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olemart1n/semester-project-2-ole_m/issues"
+  },
+  "homepage": "https://github.com/olemart1n/semester-project-2-ole_m#readme"
+}
