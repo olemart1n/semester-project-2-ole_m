@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/olemart1n/semester-project-2-ole_m/issues"
   },
-  "homepage": "https://github.com/olemart1n/semester-project-2-ole_m#readme"
+  "homepage": "https://github.com/olemart1n/semester-project-2-ole_m#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
 }
